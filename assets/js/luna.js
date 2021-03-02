@@ -12,19 +12,19 @@ new fullpage('.luna', {
     var destNum = 0;
     if (dest.index === 1) {
       selector = ".second" 
-      destNum = 24;
+      destNum = 29;
     }
     else if (dest.index === 2) {
       selector = ".third";
-      destNum = 29;
+      destNum = 44;
     }
     else if (dest.index === 3) {
       selector = ".fourth";
-      destNum = 37;
+      destNum = 46;
     }
     else if (dest.index === 4) {
       selector = ".fifth";
-      destNum = 3630;
+      destNum = 4025;
     } 
     else if (dest.index === 5) {
       selector = ".last";
