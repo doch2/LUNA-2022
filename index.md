@@ -10,6 +10,6 @@ social:
     icon: "fa-github-square"
   - url: https://www.youtube.com/channel/UCWfvTEUzP9b2pPTDBSi9IMg/
     icon: "fa-youtube-square"
-  - url: https://www.instagram.com/dimigo._.luna/
+  - url: https://www.instagram.com/dimigo_luna/
     icon: "fa-instagram"
 ---
