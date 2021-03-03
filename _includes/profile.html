@@ -8,8 +8,10 @@
     {% endfor %}
   </div>
   <img src="/assets/img/members/{{ member.name }}.png" class="profile__image">
+  {% if member.luna != 4 %}
   <h1 class="profile__name">{{ member.name }}</h1>
-  {%if member.luna != 4%}<h1 class="profile__name">{{ member.name }}</h1><h2 class="profile__name-major">{{ member.grade }}{{ member.major }} | {{ member.role }}</h2>{% endif %}
+  <h2 class="profile__name-major">{{ member.grade }}{{ member.major }} | {{ member.role }}</h2>
+  {% endif %}
   <i class="fas fa-quote-left profile__quote"></i>
   <p class="profile__content">{{ member.content | remove: '<p>' | remove: '</p>' }}</p> 
 </div>
