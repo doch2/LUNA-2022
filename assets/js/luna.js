@@ -20,7 +20,7 @@ new fullpage('.luna', {
     }
     else if (dest.index === 3) {
       selector = ".fourth";
-      destNum = 46;
+      destNum = 67;
     }
     else if (dest.index === 4) {
       selector = ".fifth";
