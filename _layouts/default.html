@@ -1,3 +1,4 @@
+{%- include analytics.html -%}
 <!DOCTYPE html>
 <html lang="ko">
   <head>
@@ -34,7 +35,7 @@
       src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.js"
     ></script>
     <script type="text/javascript">
-      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+      navigator.serviceWorker.getRegistrations().then(function (registrations) {
         for (let registration of registrations) {
           registration.unregister();
         }
