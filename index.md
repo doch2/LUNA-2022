@@ -6,7 +6,7 @@ layout: home
 social:
   - url: https://www.facebook.com/lunacoding/
     icon: "fa-facebook-square"
-  - url: https://github.com/LUNA-DIMIGO
+  - url: https://github.com/LUNA-coding
     icon: "fa-github-square"
   - url: https://www.youtube.com/channel/UCWfvTEUzP9b2pPTDBSi9IMg/
     icon: "fa-youtube-square"
