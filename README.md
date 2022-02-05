@@ -4,6 +4,8 @@
     bundle update
     bundle exec jekyll serve
 
+    * M1 맥북의 경우 터미널을 로제타로 실행하여야 정상적으로 홈페이지가 작동합니다.
+
 # 주의사항
 
 `assets/img/awards/` 의 하위 이미지 파일의 이름은 다음 형식을 따른다.
