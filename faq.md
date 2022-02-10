@@ -10,5 +10,5 @@ items:
   - q: 개발자, 디자이너, 기획자 등 역할마다 몇 명을 선발할 계획인가요?
     a: 구체적으로 정해져있는 것은 아니지만, 각 역할 별로 인원은 비슷하게 선발할 예정입니다! 총 선발할 인원 또한 정확한 수치는 미정이지만, 8명 내외로 선발한다고 보시면 됩니다.
   - q: 문의 사항이 있어요! 어디에 연락하면 될까요?
-    a: 루나에 대한 기타 문의 사항은 <a href="https://www.facebook.com/lunacoding/"><i class="fab fa-facebook-square"></i> 루나 페이스북</a>에 메시지를 주시면 됩니다! 최대한 빠르게 답변해드리겠습니다🥰
+    a: 루나에 대한 기타 문의 사항은 <a href="https://www.facebook.com/lunacoding/"><i class="fab fa-facebook-square"></i> 루나 페이스북</a>에 메시지를 주시면 됩니다! 최대한 빠르게 답변해드리겠습니다🥰<br><br>자주 묻는 질문에 답변한 영상이 있으니, 궁금하시다면 영상을 시청하세요!<center><div class="video-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/hIX8CQHqW-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></center>
 ---
