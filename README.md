@@ -1,7 +1,6 @@
 # LUNA 2022 소개 사이트
 
     bundle install
-    bundle update
     bundle exec jekyll serve
 
     * M1 맥북의 경우 터미널을 로제타로 실행하여야 정상적으로 홈페이지가 작동합니다.
